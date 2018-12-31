@@ -9,7 +9,7 @@
 #
 app:
   name: WorkPanda # REQUIRED - Enter your app name
-  ios_id: 912209542 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  ios_id: x389801252 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
@@ -42,8 +42,15 @@ app:
 #
 # Marketing
 #
-marketing_header: Panda Pairing # Optional
-marketing_desc: Just like pandas in the rainforest that unite over a cup of coffee to plan their days and tackle challenges WorkPanda enables users to meet one another. Once you enter your habitat open the app and signal to your fellow pandas what you are working on, whether it's a business proposal, a new sorting algorithm, or designing the newest bamboo desk and how can they find you. Then just go about your business. Since pandas are very social creatures, they will stop by and say "Hi!"  We're trying to re-enable the old school communication between people, not between devices. Don't be shy and reach out to other pandas who are working on something you might be interested in! If you are lost in your forest of thoughts, wanting to share your journey with someone and are not the kind of panda that growls, this app can help you! Download the app, check-in, and you can find other pandas with similar callings and let them find you!
+marketing_header: # Optional
+marketing_desc: |
+  Just like pandas in the rainforest that unite over a cup of coffee to plan their days and tackle challenges WorkPanda enables users to meet one another.
+
+  Once you enter your habitat open the app to signal what you are working on-- whether it's a business proposal, a new sorting algorithm, or designing the newest bamboo desk and how others can find you.
+
+  Since pandas are very social creatures, they will stop by and say "Hi!"
+
+  Don't be shy and reach out to other pandas who are working on something you are interested in!
 
 #
 # Social Links
